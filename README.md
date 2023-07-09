@@ -6,7 +6,7 @@ Welcome to MuiMaterialTSDX Components, a React components project.
 > TypeScript packages with ease--so you can focus on your awesome new library and not waste another afternoon on the
 > configuration.
 
-## Commands**
+## Commands
 
 the build is output to `/dist` and runs in watch mode, so any edits saved within `src` cause a rebuild to `/dist`.
 
